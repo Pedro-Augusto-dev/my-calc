@@ -83,14 +83,14 @@ button:hover{
 }
 span{
     position: relative;
-    top: 500px;
+    top: 800px;
 }
 h1{
 
     display: flex;
     justify-content: center;
     position: relative;
-    top: 45px;
+    top: 145px;
 
 }
 a{
